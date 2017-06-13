@@ -2,7 +2,7 @@
 layout: post
 title:  "Phillip Keller"
 date:   2017-06-13 14:30:00 -0400
-categories: "Janelia Crustacean meeting"
+categories: "JaneliaCrustaceanMeeting2017"
 ---
 
 # Topic

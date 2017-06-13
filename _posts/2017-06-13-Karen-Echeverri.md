@@ -2,7 +2,7 @@
 layout: post
 title:  "Karen Echeverri"
 date:   2017-06-13 11:00:00 -0400
-categories: Janelia Crustacean meeting
+categories: JaneliaCrustaceanMeeting2017
 ---
 
 # Topic

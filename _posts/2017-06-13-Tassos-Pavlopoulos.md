@@ -2,7 +2,7 @@
 layout: post
 title:  "Tassos Pavlopoulos"
 date:   2017-06-13 9:30:00 -0400
-categories: Janelia Crustacean meeting
+categories: JaneliaCrustaceanMeeting2017
 ---
 
 # Topic

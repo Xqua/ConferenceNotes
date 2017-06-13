@@ -2,7 +2,7 @@
 layout: post
 title:  "Michalis Averof"
 date:   2017-06-13 13:00:00 -0400
-categories: "Janelia Crustacean meeting"
+categories: "JaneliaCrustaceanMeeting2017"
 ---
 
 # Topic

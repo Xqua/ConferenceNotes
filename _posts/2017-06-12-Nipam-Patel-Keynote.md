@@ -2,7 +2,7 @@
 layout: post
 title:  "Nipam Patel Keynote"
 date:   2017-06-12 13:59:04 -0400
-categories: Janelia Crustacean meeting
+categories: JaneliaCrustaceanMeeting2017
 ---
 # Notes
 

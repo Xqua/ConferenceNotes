@@ -2,11 +2,11 @@
 layout: post
 title:  "Sebastian Streichan"
 date:   2017-06-13 15:00:00 -0400
-categories: "Janelia Crustacean meeting"
+categories: "JaneliaCrustaceanMeeting2017"
 ---
 
 # Topic
-**Tissue flows ini morphogenesis**
+**Tissue flows in morphogenesis**
 
 # Notes
 * Using lightsheet microscopy to study morphogenesis
