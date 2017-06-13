@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jonathan Marvin"
-date:   2017-06-13 15:00:00 -0400
+date:   2017-06-13 15:30:00 -0400
 categories: "JaneliaCrustaceanMeeting2017"
 ---
 
@@ -42,3 +42,4 @@ categories: "JaneliaCrustaceanMeeting2017"
     * Dual color imaging of zebrafish larvae
       * Ca activity spikes correlate with glucose spikes
       * if starved larvea, glucose is non correlated.
+* All sensor available (email loogerl@janelia.hmmi.org or marvinj@janelia.hhmi.org)
