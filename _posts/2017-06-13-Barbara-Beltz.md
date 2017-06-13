@@ -37,4 +37,4 @@ categories: Janelia Crustacean meeting
 * Goes along with the recent data on mammals that show very limited self renewing capacity of neural stem cells.
   * And potential link with the hematopoietic lineage
 
-wild paper: Eva Mezey Barabara Crain 2003 Found that bone marrow transplant give rise to neurons in humans.
+wild paper: [Eva Mezey, Barabara Crain 2003](https://www.ncbi.nlm.nih.gov/pubmed/12538864) Found that bone marrow transplant give rise to neurons in humans.
