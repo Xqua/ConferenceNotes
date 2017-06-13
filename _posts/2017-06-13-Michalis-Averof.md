@@ -26,4 +26,4 @@ categories: "Janelia Crustacean meeting"
 * Cell tracking and lineage tracking of regeneration
 * every epidermal cells is making a small contribution to the new limb (aka there is no one cell that proliferate more than others.)
 * The position of the cells in the blastema is globally maintained in the limb.
-* Thus the signaling is probably already present then. 
+* Thus the signaling is probably already present then.
