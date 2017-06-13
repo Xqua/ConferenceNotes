@@ -33,7 +33,8 @@ categories: "Janelia Crustacean meeting"
 
 # Softwares    
 janelia keller lab software
-[CUDA-LR](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwj1yuPOwLvUAhVKOT4KHRh3DvAQFggnMAA&url=https%3A%2F%2Fwww.janelia.org%2Fsites%2Fdefault%2Ffiles%2FLabs%2FKeller%2520Lab%2FStegmaier%25202016.pdf&usg=AFQjCNHchWsDaQuwReDT3kAl8HMODe1hqw&sig2=BziuPdUPzcuKWjyEdj1uTA) Multiview rec
-[KLB](https://bitbucket.org/fernandoamat/keller-lab-block-filetype)
-[TGMM](https://www.janelia.org/lab/keller-lab/software/fast-accurate-reconstruction-cell-lineages-large-scale-fluorescence) Cell tracking
-[RACE](https://www.janelia.org/publication/real-time-three-dimensional-cell-segmentation-large-scale-microscopy-data-developing) Segmentation
+
+* [CUDA-LR](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwj1yuPOwLvUAhVKOT4KHRh3DvAQFggnMAA&url=https%3A%2F%2Fwww.janelia.org%2Fsites%2Fdefault%2Ffiles%2FLabs%2FKeller%2520Lab%2FStegmaier%25202016.pdf&usg=AFQjCNHchWsDaQuwReDT3kAl8HMODe1hqw&sig2=BziuPdUPzcuKWjyEdj1uTA) Multiview rec
+* [KLB](https://bitbucket.org/fernandoamat/keller-lab-block-filetype)
+* [TGMM](https://www.janelia.org/lab/keller-lab/software/fast-accurate-reconstruction-cell-lineages-large-scale-fluorescence) Cell tracking
+* [RACE](https://www.janelia.org/publication/real-time-three-dimensional-cell-segmentation-large-scale-microscopy-data-developing) Segmentation
