@@ -2,7 +2,7 @@
 layout: post
 title:  "Barbara Beltz"
 date:   2017-06-13 11:30:00 -0400
-categories: Janelia Crustacean meeting
+categories: "Janelia Crustacean meeting"
 ---
 
 # Topic
